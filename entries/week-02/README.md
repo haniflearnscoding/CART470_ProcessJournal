@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 **Dates covered:** TBD
 
@@ -21,12 +21,12 @@ _What worked, what didn't, what's unclear, what you learned._
 ## Next Step
 
 _TBD — link to next week's entry once created:_
-`[Week 2](../week-02/README.md)`
+`[Week 3](../week-03/README.md)`
 
 ## Table of Contents
 
 | Week | Entry |
 | --- | --- |
-| 1 | [Week 1](../week-01/README.md) |
+| 2 | [Week 2](../week-02/README.md) |
 
 [← Back to journal index](../../README.md)
