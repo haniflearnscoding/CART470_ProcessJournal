@@ -17,6 +17,8 @@ https://www.figma.com/board/r6SQI1vLGT2OgyXQXaSpqu/Game-Education-Software-Brain
 
 
 
+![FigJam brainstorm board](./images/figjam-brainstorm.png)
+
 ## Reflection
 
 Since I was absent the first week, I was able to meet my teammates. We got to work on a FigJam board, which a few of us were already familiar with. We went over our brief together and started putting together a structured approach to our project. 
