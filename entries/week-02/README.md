@@ -1,9 +1,5 @@
 # Week 2
 
-## Summary
-
-_What happened this week — research, decisions, team discussions, initial ideas._
-
 ## Process
 
 _Sketches, prototypes, tests. Embed images/gifs from the `images/` folder, e.g.:_
