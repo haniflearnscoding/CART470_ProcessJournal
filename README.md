@@ -36,12 +36,13 @@ slideshow)
 
 ## Latest Entry
 
-[Week 2](entries/week-02/README.md)
+[Week 3](entries/week-03/README.md)
 
 ## Table of Contents
 
 | Week | Entry |
 | --- | --- |
 | 2 | [Week 2](entries/week-02/README.md) |
+| 3 | [Week 3](entries/week-03/README.md) |
 
 _New rows are added here each week, linking to that week's entry._

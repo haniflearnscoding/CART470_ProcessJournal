@@ -33,13 +33,13 @@ Overall, I believe our team had very good chemistry and a sense of play that wil
 
 ## Next Step
 
-_TBD — link to next week's entry once created:_
-`[Week 3](../week-03/README.md)`
+[Week 3](../week-03/README.md)
 
 ## Table of Contents
 
 | Week | Entry |
 | --- | --- |
 | 2 | [Week 2](../week-02/README.md) |
+| 3 | [Week 3](../week-03/README.md) |
 
 [← Back to journal index](../../README.md)
