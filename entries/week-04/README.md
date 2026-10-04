@@ -18,7 +18,7 @@ Based on the team's FigJam sketches and user flow, I built low-fidelity wirefram
 
 ![mobile wireframes](./images/wireframes-mobile.png)
 
-[add notes here: what I decided, what I'm unsure about, feedback I want from the team and client]
+This is a first draft of the wireframes, so before I commit to an interactive prototype, I want to get feedback from my teammates and my client. The other part I'm torn on is part of my reflection last week was about how Pippin wanted an educational game that did not require any technical knowledge from the users part. I'm a bit concerned with the sliders and the nodes and was wondering if there was a wireframe to be made without and UI elements and only in the gameplay can you iterate the different mechanics. I brought this up in a previous meeting with the team, but it sounded like we had different understandings of this. Something to possibly bring up again to Pippin, and making another low-fidelity wireframe of this could be interesting. 
 
 ## Learning Activity: Analyzing Pippin Barr's Games (O1, O2)
 
