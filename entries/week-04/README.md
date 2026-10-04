@@ -12,7 +12,7 @@
 
 Based on the team's FigJam sketches and user flow, I built low-fidelity wireframes of the game editor: Home → Pick game → Base engine → Add node (Aesthetics / Mechanics / Story) → Pick a node setting → Modify node → Link node to another → Simulate game.
 
-<https://www.figma.com/design/ymjlaX0MTaRG18HTGkdcyD>
+<https://www.figma.com/board/r6SQI1vLGT2OgyXQXaSpqu/Game-Education-Software-Brainstorm?node-id=172-429&t=i8Sll9vfpaxR3LYa-1>
 
 ![desktop wireframes](./images/wireframes-desktop.png)
 
