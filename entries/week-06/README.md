@@ -18,7 +18,7 @@ The board ears Scratch 3.0 down from its smallest unit up to the whole project.
 6. **Pong case study:** Pong assembled from Scratch units, plus four ways a camera could exist in it.
 7. **Reflections:** which of Scratch's choices to copy, invert or question for our interface language.
 
-![Project Screenshot](images/scratch-units.png)
+![Project Screenshot](./images/scratch-units.png)
 
 
 ## Reflection
