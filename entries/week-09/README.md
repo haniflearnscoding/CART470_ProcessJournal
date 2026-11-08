@@ -7,16 +7,17 @@ Ok this week's update is not a Figma update but rather a coding update. From our
 
 We worked off of a draft he showed us on call. Here are the changes so far:
 
--button is now an html button outside the canvas
--sliders have names
--click to start adds first ball and starts game
--each ball has its own speed, so earlier bug about every ball changing direction when hitting paddle is fixed.
--scoreboard updates with score 
--balls reverse when hitting top or bottom edge
--new ball spawned when scored 
+- The button is now an HTML button outside the canvas.
+- The sliders have names.
+- Click to start adds the first ball and starts the game.
+- Each ball has its own speed, so the earlier bug where every ball changed direction when one hit a paddle is fixed.
+- The scoreboard updates with the score.
+- Balls reverse when they hit the top or bottom edge.
+- A new ball spawns when a point is scored.
 
+<video src="./images/pong-prototype.mov" controls width="100%"></video>
 
-
+[Watch the screen recording](./images/pong-prototype.mov)
 
 
 
