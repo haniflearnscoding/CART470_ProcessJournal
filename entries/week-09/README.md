@@ -15,9 +15,9 @@ We worked off of a draft he showed us on call. Here are the changes so far:
 - Balls reverse when they hit the top or bottom edge.
 - A new ball spawns when a point is scored.
 
-<video src="./images/pong-prototype.mov" controls width="100%"></video>
+![Pong prototype demo](./images/pong-prototype.gif)
 
-[Watch the screen recording](./images/pong-prototype.mov)
+[Watch the full screen recording](./images/pong-prototype.mov)
 
 
 
