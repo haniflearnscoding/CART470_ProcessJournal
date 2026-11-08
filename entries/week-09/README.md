@@ -23,10 +23,10 @@ We worked off of a draft he showed us on call. Here are the changes so far:
 
 ## Reflection
 <!-- What did you learn? Which findings carry into the interface? Open questions, references. -->
-
+After our midterm presentations, the team and I discussed how our client, compared to other professors, was less in a rush to get to a working deliverable. Other profs are asking for working prototypes by midterm and are actively user testing in their classes to have it be used by students by finals. It doesn't seem like our client has the same urgency to ship this as a working product. I think the value in the work we do here is going to be working on the coding prototype and actively getting feedback from Pippin - likely poking him on Discord more than once a week. Styling should be a last-to-do, and working on the content of the game education software will push us further. 
 
 ## Next Step
 <!-- What you plan to do next week. -->
-
+Get feedback from Pippin, and actively work on the code. 
 
 [← Back to journal index](https://github.com/haniflearnscoding/CART470_ProcessJournal/blob/main/README.md)
