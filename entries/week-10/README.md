@@ -23,5 +23,7 @@ https://www.figma.com/design/B19U0dZ1wAX4E3ICKY4MbG/Scratch-Units?node-id=88-584
 <!-- What did you learn? Which findings carry into the interface? Open questions, references. -->
 I think it was important to bring over the coding prototype into Figma to help the designers on the team to keep prototyping without having to figure out code. I need to create more opportunities like this for my team so they can keep working within their preferred practices. Also probably a good idea to start scoping out some of the equipment we might end up using for the showcase. A visit to the CDA can be helpful, and reserving the equipment ahead of time as well. 
 
+Also, heres the live link of the current build. https://haniflearnscoding.github.io/CART470Software/index.html 
+
 
 [← Back to journal index](https://github.com/haniflearnscoding/CART470_ProcessJournal/blob/main/README.md)
